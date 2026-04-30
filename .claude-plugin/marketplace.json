@@ -11,12 +11,13 @@
   "plugins": [
     {
       "name": "skill-manager-pro",
-      "source": {
-        "source": "directory",
-        "path": "~/.claude/plugins/skill-manager-pro"
-      },
+      "source": "./",
+      "description": "Auto-restores archived skills based on session intent and terminal context.",
       "version": "2.0.0",
-      "strict": false
+      "author": {
+        "name": "Gillian Sandman",
+        "email": "ebolaprjr@aol.com"
+      }
     }
   ]
 }
