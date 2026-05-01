@@ -1,6 +1,6 @@
 {
   "name": "skill-manager-pro",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "description": "Auto-restores archived skills based on session intent.",
   "author": {
     "name": "Gillian Sandman",
@@ -8,6 +8,7 @@
   },
   "skills": [
     "./skills/restore-skill",
-    "./skills/skills-auto"
+    "./skills/skills-auto",
+    "./skills/archive-skill"
   ]
 }
