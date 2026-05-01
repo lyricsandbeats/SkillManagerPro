@@ -16,13 +16,14 @@ As development projects grow, so does the "noise" in your AI context window. **S
 * **Context Window Optimization:** Auto-restores the skills you need for your current session.
 * **Automated Workflow:** No manual intervention required; the plugin handles skill states based on your session intent.
 
-> [!IMPORTANT]
-> Ensure you are running the latest version of Claude Code before installing this plugin.
+
 
 > [!TIP]
-> Use `skill-manager-pro` to keep your context window lean and optimized for complex coding tasks.
+> **Trust the process.** SkillManagerPro automatically detects your session intent to restore necessary skills. To get the best results, start your Claude Code session by describing your overall goal or the specific problem you are solving. This gives the plugin the necessary context to intelligently restore any archived skills.  
 
 ## Installation
+> [!IMPORTANT]
+> Ensure you are running the latest version of Claude Code before installing this plugin.
 
 Add this repository to your Claude Code marketplace to install:
 
