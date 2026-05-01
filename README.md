@@ -18,10 +18,12 @@ Add this repository to your Claude Code marketplace to install:
 1. **Add the marketplace:**
    ```bash
    /plugin marketplace add lyricsandbeats/SkillManagerPro-V1
+   ```
 
 2. **Install the plugin:**
    ```bash
    /plugin install skillmanagerpro-v1@lyricsandbeats
+   ```
 
 ## Usage
 * skill-enable <name>: Activate a specific skill.
@@ -31,8 +33,11 @@ Add this repository to your Claude Code marketplace to install:
 If you are contributing or testing changes locally:
 ```bash
 claude --plugin-dir ./path/to/SkillManagerPro-V1
+```
 
-Built by Gillian (Gill of All Things).
+## Built By
+Gillian (Gill of All Things). 
+I'm not a developer, I'm a builder, so I built this to help other builders and to learn more about development and code, to be the best AI builder I can be.
 Follow my "build in public" journey on X: https://x.com/GillofAllThings and IG: instagram.com/gillofallthings
 
 
